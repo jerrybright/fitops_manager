@@ -76,7 +76,7 @@ import Integration from '@/components/homepage-07/Integration';
 import Pricing from '@/components/homepage-07/Pricing';
 import TrustedByUsers from '@/components/homepage-07/TrustedByUsers';
 import WhyChooseUs from '@/components/homepage-07/WhyChooseUs';
-import Featuresbento from '@/components/homepage-21/Features'
+// import Featuresbento from '@/components/homepage-21/Features'
 import Benefits from '@/components/homepage-12/Benefits';
 import Testimonial from '@/components/homepage-12/Testimonial';
 // import FooterOne from '@/components/shared/footer/FooterOne';
